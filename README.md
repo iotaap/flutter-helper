@@ -1,2 +1,2 @@
 # flutter-helper
-Flutter helper for IoTaaP cloud and MQTT
+Flutter helper for IoTaaP cloud and MQTT(S)
